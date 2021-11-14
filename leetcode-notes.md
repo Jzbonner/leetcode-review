@@ -22,6 +22,11 @@ const twoSum = (nums, target) => {
     return result
 }
 ```
+
+```javascript 
+//Optimal Solution
+
+````
 Problem states that there are only two index values being compared at a time and that every input only has one solution. This encourages the use of an iterative nested for loop that has two instantiated variables. The first `for loop` starts with the first index of the passed array parameter and provides the first testable variable in the addition equation (i.e. 'this =>' nums[i] + nums[j] == target). The second `for loop` starts at the second index of the passed array parameter and provides the second testable variable of the addition equation (i.e. nums[i] + 'this =>' nums[j] == target). Once the target is found you want to push those index values to the previously declared results array.
 
 #### Reverse Integer - Takeaways
