@@ -11,7 +11,7 @@
  * @return {number[]}
  */
 
-
+// Basic Solution
 const twoSum = (nums, target) => {
     let result = []
 
@@ -26,5 +26,12 @@ const twoSum = (nums, target) => {
 
     return result
 };
+
+// Optimal Solution
+
+const twoSum = (nums, target) => {
+
+}
+
 // @lc code=end
 
