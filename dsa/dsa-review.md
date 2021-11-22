@@ -1,7 +1,18 @@
 # Data Structures and Algorithms for Technical Interviews 
 * Top 75 technical interview questions for review: [Here](https://leetcode.com/list/?selectedList=9rtwdscs)
+* Data Structures and Algorithms with JavaScript: [Here]:(https://www.oreilly.com/library/view/data-structures-and/9781449373931/)
 
-## Understanding Arrays
+
+## The fundamental Building Blocks
+JavaScript is a...
+
+### Declaring and Initializing Variables
+
+### Arithmetic and Math Library Functions 
+
+### Decision Constructs 
+
+### Understanding Arrays
 Arrays are linear and indexed... 
 
 
