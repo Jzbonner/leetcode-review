@@ -1,6 +1,6 @@
 # Data Structures and Algorithms for Technical Interviews 
 * Top 75 technical interview questions for review: [Here](https://leetcode.com/list/?selectedList=9rtwdscs)
-* Data Structures and Algorithms with JavaScript: [Here]:(https://www.oreilly.com/library/view/data-structures-and/9781449373931/)
+* Data Structures and Algorithms with JavaScript: [Here](https://www.oreilly.com/library/view/data-structures-and/9781449373931/)
 
 
 ## The fundamental Building Blocks
