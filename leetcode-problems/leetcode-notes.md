@@ -1,7 +1,7 @@
 ## Leetcode Problem Review 
 This is a dedicated space for keeping track of notes relating to coding practice for leetcode and potential technical interview questions. Each problem contains pseudocode to better understand the concepts behind the problem, basic and modern solution examples and key takeaways
 
-#### Two Sum - Takeaways 
+### Two Sum - Takeaways 
 * Array.push() and Array.pop() are an easy way to manipulate array beginning and end values
 * Nested for loops provide a brute solution 
 * Using objects make it easier to create a modern solution 
@@ -29,10 +29,10 @@ const twoSum = (nums, target) => {
 ````
 Problem states that there are only two index values being compared at a time and that every input only has one solution. This encourages the use of an iterative nested for loop that has two instantiated variables. The first `for loop` starts with the first index of the passed array parameter and provides the first testable variable in the addition equation (i.e. 'this =>' nums[i] + nums[j] == target). The second `for loop` starts at the second index of the passed array parameter and provides the second testable variable of the addition equation (i.e. nums[i] + 'this =>' nums[j] == target). Once the target is found you want to push those index values to the previously declared results array.
 
-#### Reverse Integer - Takeaways
+### Reverse Integer - Takeaways
 
 
-#### Palindrome - Takeaways
+### Palindrome - Takeaways
 For this problem it is important to understand that this can be done by converting the initial value to a string and also by revering the integer value itself. You want to ensure that you understand the initial constraint, that all negative numbers will return a `false` boolean; logic only needs to be mapped out for numbers greater than 0. The integer-to-string method requires the use of multiple `if` loops. While the integer only solution requires the use of an `if` loop and a `while` loop. 
 
 ```javascript 
